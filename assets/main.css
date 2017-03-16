@@ -3,7 +3,9 @@ body,input,textarea,select,button,table{font-family:'돋움',Dotum,AppleGothic,s
 img,fieldset{border:0}
 ul,ol{list-style:none}
 em,address{font-style:normal}
-a{text-decoration:none}
+a{text-decoration:none; color :black;}
+a:hover{text-decoration:none}
+
 
 h1{
  padding: 20px;
